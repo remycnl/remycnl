@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Rémy Canal
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remycnl&show_icons=true&locale=en&layout=compact" alt="remycnl" /></p>
 
