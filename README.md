@@ -22,10 +22,10 @@ Check out my portfolio to see more of my work:
 
 ### 📞 Connect with Me
 
-You can find me on LinkedIn or contact me via email:
+You can find me on LinkedIn:
 
-| [![LinkedIn](https://img.icons8.com/ios-filled/40/0e76a8/linkedin.png)](https://www.linkedin.com/in/remycanal) | [![Email](https://img.icons8.com/ios-filled/40/000000/email.png)](mailto:remy.canal@epitech.eu) |
-|:----------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| [![LinkedIn](https://img.icons8.com/ios-filled/40/0e76a8/linkedin.png)](https://www.linkedin.com/in/remycanal) |
+|:----------------------------------------------------------------------------------------------------------------|
 
 ---
 
@@ -39,15 +39,14 @@ Here are some of the key technologies I master and use in my projects:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/gsap.png" alt="GSAP" style="margin-right: 10px;"/>
 </div>
 
 ---
 
 ### 💻 Technologies
 
-- **Front-End:** HTML5, CSS3, JavaScript, Vue.js, React, Tailwind CSS, Swiper.js, GSAP
-- **Back-End:** Node.js, PHP, Strapi, Python
+- **Front-End:** HTML5, CSS3, JavaScript, Vue.js, React, Tailwind CSS, Swiper.js, GSAP, Nuxt.js, Next.js
+- **Back-End:** Node.js, PHP, Strapi, Python, Laravel
 - **Other Tools:** GitHub, Canva, Elementor, WordPress
 
 ---
