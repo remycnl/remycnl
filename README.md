@@ -8,7 +8,7 @@ I'm a **Web Developer** and **Epitech student** from Lyon, France, passionate ab
 
 ---
 
-### 🌐 [Portfolio Preview](https://www.remycanal.me/img/metaImg.png)
+### ![Portfolio Preview](https://www.remycanal.me/img/metaImg.png)
 
 Check out my portfolio to see more of my work:  
 [www.remycanal.me](https://www.remycanal.me)
