@@ -1,10 +1,6 @@
 ## Hi there 👋, I'm Rémy Canal
 
-I'm a **Web Developer** and **Epitech student** from Lyon, France, passionate about creating seamless digital experiences with modern technologies. I specialize in **full-stack development**, with a focus on **front-end frameworks** and **back-end systems**.
-
-- 🔭 I’m currently working on various exciting web projects and internships.  
-- 🌱 I’m always learning and improving my skills in **React**, **Vue.js**, **Node.js**, and more.
-- ⚡ Fun fact: I love working on innovative and challenging projects that push my limits.
+I'm a **Web Developer** and **Epitech student** from Lyon, France, passionate about creating seamless digital experiences with modern technologies. I specialize in **full-stack development**, with a focus on **front-end frameworks**.
 
 ---
 
@@ -43,19 +39,16 @@ Here are some of the key technologies I master and use in my projects:
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="TailwindCSS" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/000000/gsap.png" alt="GSAP" style="margin-right: 10px;"/>
 </div>
 
 ---
 
 ### 💻 Technologies
 
-- **Front-End:** HTML5, CSS3, JavaScript, Vue.js, React, Tailwind CSS
+- **Front-End:** HTML5, CSS3, JavaScript, Vue.js, React, Tailwind CSS, Swiper.js, GSAP
 - **Back-End:** Node.js, PHP, Strapi, Python
-- **Other Tools:** GitHub, GSAP, Canva, Elementor, WordPress
+- **Other Tools:** GitHub, Canva, Elementor, WordPress
 
 ---
 
