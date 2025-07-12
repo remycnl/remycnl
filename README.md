@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rémy Canal
 
-I'm a **Web Developer** and **Epitech student** from Lyon, France, passionate about creating seamless digital experiences with modern technologies. I specialize in **full-stack development**, with a focus on **front-end frameworks**.
+I'm a **Web Developer**, **Awwwards Young Jury** and **Epitech student** from Lyon, France, passionate about creating seamless digital experiences with modern technologies. I specialize in **full-stack development**, with a focus on **front-end frameworks**.
 
 ---
 
