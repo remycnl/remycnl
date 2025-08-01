@@ -1,7 +1,7 @@
 # Hey there! I'm Rémy Canal 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b07d62,100:deab90&height=120&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=ffcb69&animation=fadeIn&fontAlignY=38&desc=Awwwards%20Young%20Jury%20•%20Lyon,%20France&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b07d62,100:deab90&height=120&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=eeeeee&animation=fadeIn&fontAlignY=38&desc=Awwwards%20Young%20Jury%20•%20Lyon,%20France&descAlignY=62&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
