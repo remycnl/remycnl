@@ -97,10 +97,10 @@ const developer: Developer = {
 
 | 🎨 **Pascale Canal - Art Gallery** | 🚀 **Personal Portfolio** |
 |:---:|:---:|
-| [![Pascale Canal](https://www.pascalecanal.fr/img/metaImg.png)](https://www.pascalecanal.fr){:target="_blank"} | [![Portfolio](https://www.remycanal.me/img/metaImg.png)](https://www.remycanal.me){:target="_blank"} |
+| [![Pascale Canal](https://www.pascalecanal.fr/img/metaImg.png)](https://www.pascalecanal.fr) | [![Portfolio](https://www.remycanal.me/img/metaImg.png)](https://www.remycanal.me) |
 | Elegant art gallery showcasing contemporary artworks | Modern portfolio highlighting my development journey |
 | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | 
-| [**🔗 Live Demo**](https://www.pascalecanal.fr){:target="_blank"} | [**🔗 Live Demo**](https://www.remycanal.me){:target="_blank"} |
+| [**🔗 Live Demo**](https://www.pascalecanal.fr) | [**🔗 Live Demo**](https://www.remycanal.me) |
 
 </div>
 
@@ -114,15 +114,9 @@ const developer: Developer = {
 
 <div align="center">
 
-<a href="https://www.remycanal.me" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-b07d62?style=for-the-badge&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://linkedin.com/in/remy-canal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:hello@remycanal.me" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-b07d62?style=for-the-badge&logoColor=white)](https://www.remycanal.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/remy-canal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@remycanal.me)
 
 </div>
 
@@ -132,9 +126,7 @@ const developer: Developer = {
 
 ### *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
-<a href="https://git.io/typing-svg" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=deab90&center=true&vCenter=true&width=600&lines=Always+excited+to+work+on+new+projects;Meet+fellow+developers+and+creators;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG">
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=deab90&center=true&vCenter=true&width=600&lines=Always+excited+to+work+on+new+projects;Meet+fellow+developers+and+creators;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=remycnl&color=b07d62&style=flat-square&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/remycnl?style=flat-square&color=b07d62&labelColor=1e1e2e)
