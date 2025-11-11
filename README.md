@@ -15,7 +15,10 @@ const developer: Developer = {
   name: "Rémy Canal",
   location: "Lyon, France 🇫🇷",
   role: "Full-Stack Developer",
-  education: "Epitech Student",
+  education: [
+    "Epitech",
+    "Technological University Dublin"
+  ],
   recognition: "Awwwards Young Jury",
   expertise: [
     "Modern Web Development",
