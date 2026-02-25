@@ -1,7 +1,7 @@
 # Hey there! I'm Rémy Canal 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cabfdf,100:cabfdf&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Awwwards%20Young%20Jury%20•%20Lyon,%20France&descAlignY=45&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7B4EC,100:C7B4EC&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Awwwards%20Young%20Jury%20•%20Lyon,%20France&descAlignY=45&descSize=16" width="100%"/>
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ const developer: Developer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-cabfdf?style=for-the-badge&logoColor=white)](https://www.remycanal.me)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-C7B4EC?style=for-the-badge&logoColor=white)](https://www.remycanal.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/remy-canal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@remycanal.me)
 
@@ -129,16 +129,16 @@ const developer: Developer = {
 
 ### *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=cabfdf&center=true&vCenter=true&width=600&lines=Always+excited+to+work+on+new+projects;Meet+fellow+developers+and+creators;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=C7B4EC&center=true&vCenter=true&width=600&lines=Always+excited+to+work+on+new+projects;Meet+fellow+developers+and+creators;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=remycnl&color=cabfdf&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/remycnl?style=flat-square&color=cabfdf&labelColor=1e1e2e)
-![GitHub Stars](https://img.shields.io/github/stars/remycnl?style=flat-square&color=cabfdf&labelColor=1e1e2e&affiliations=OWNER)
+![Profile Views](https://komarev.com/ghpvc/?username=remycnl&color=C7B4EC&style=flat-square&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/remycnl?style=flat-square&color=C7B4EC&labelColor=1e1e2e)
+![GitHub Stars](https://img.shields.io/github/stars/remycnl?style=flat-square&color=C7B4EC&labelColor=1e1e2e&affiliations=OWNER)
 
 *Everything is crafted with ❤️*
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cabfdf,100:cabfdf&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7B4EC,100:C7B4EC&height=120&section=footer" width="100%"/>
 </div>
