@@ -8,7 +8,7 @@
   <img src="https://www.remycanal.me/img/avatar.png" alt="Rémy Canal" width="50%">
 </div>
 
-## 🎯 About Me
+## About Me
 
 ```typescript
 const developer: Developer = {
@@ -33,7 +33,7 @@ const developer: Developer = {
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ const developer: Developer = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -94,16 +94,16 @@ const developer: Developer = {
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🎨 **Pascale Canal - Art Gallery** | 🚀 **Personal Portfolio** |
-|:---:|:---:|
-| [![Pascale Canal](https://www.pascalecanal.fr/img/metaImg.png)](https://www.pascalecanal.fr) | [![Portfolio](https://www.remycanal.me/img/metaImg.png)](https://www.remycanal.me) |
-| Elegant art gallery showcasing contemporary artworks | Modern portfolio highlighting my development journey |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | 
-| [**🔗 Live Demo**](https://www.pascalecanal.fr) | [**🔗 Live Demo**](https://www.remycanal.me) |
+| **Pascale Canal - Art Gallery** | **Personal Portfolio** | **VikL - AI Manager Companion** |
+|:---:|:---:|:---:|
+| [![Pascale Canal](https://www.pascalecanal.fr/img/metaImg.png)](https://www.pascalecanal.fr) | [![Portfolio](https://www.remycanal.me/img/metaImg.png)](https://www.remycanal.me) | [![VikL](https://vikl.ai/img/vikl/meta_img_vikl.jpeg)](https://vikl.app) |
+| Elegant art gallery showcasing contemporary artworks | Modern portfolio highlighting my development journey | AI-powered manager companion designed to support decision-making and workflow organization |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| [**🔗 Live Demo**](https://www.pascalecanal.fr) | [**🔗 Live Demo**](https://www.remycanal.me) | [**🔗 Live Demo**](https://vikl.ai) |
 
 </div>
 
@@ -113,7 +113,7 @@ const developer: Developer = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect 🤝
 
 <div align="center">
 
