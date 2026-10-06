@@ -1,20 +1,38 @@
-# Hey there! I'm Rémy Canal 👋
-
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7B4EC,100:C7B4EC&height=180&section=header&text=Full-Stack%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=25&desc=Awwwards%20Young%20Jury%20•%20Lyon,%20France&descAlignY=45&descSize=16" width="100%"/>
+
+<img src="https://www.remycanal.me/img/metaImg.png" alt="Rémy Canal" width="100%"/>
+<br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=1800&pause=100000&repeat=false&color=6840FF&center=true&vCenter=true&width=520&height=56&lines=R%C3%A9my+Canal" alt="Rémy Canal"/>
+
+  <b>French Creative Developer</b> &nbsp;·&nbsp; Awwwards Young Jury &nbsp;·&nbsp; Based in France, remote worldwide   
+
+  <br>
+
+  <a href="https://www.remycanal.me">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=6840FF&center=true&vCenter=true&width=520&height=40&lines=Crafting+websites+with+a+heartbeat.;Human+by+design." alt="Crafting websites with a heartbeat. Human by design."/>
+  </a>
+
+  <br><br>
+
+  <a href="https://www.remycanal.me"><img src="https://img.shields.io/badge/PORTFOLIO-remycanal.me-6840FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/></a>
+  <a href="https://www.awwwards.com/remy.cnl/"><img src="https://img.shields.io/badge/AWWWARDS-Young%20Jury-6840FF?style=for-the-badge&labelColor=0D1117" alt="Awwwards"/></a>
+  <a href="mailto:hello@remycanal.me"><img src="https://img.shields.io/badge/OPEN%20TO-opportunities-C6FF33?style=for-the-badge&labelColor=0D1117" alt="Open to opportunities"/></a>
 </div>
 
-<div align="center">
-  <img src="https://www.remycanal.me/img/avatar.png" alt="Rémy Canal" width="50%">
-</div>
+<br><br>
 
-## About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
+### About
+
+<img align="right" width="42%" src="https://www.remycanal.me/img/avatar.png" alt="Rémy Canal logo"/>
 
 ```typescript
 const developer: Developer = {
   name: "Rémy Canal",
   location: "Lyon, France 🇫🇷",
-  role: "Full-Stack Developer",
+  role: "Creative Developer",
   education: [
     "Epitech",
     "Technological University Dublin"
@@ -31,114 +49,171 @@ const developer: Developer = {
 };
 ```
 
----
+<br clear="all"/>
 
-## Technology Stack
+<br><br>
+
+<!-- ═══════════════ STACK ═══════════════ -->
+### Tech Stack
+
+<table>
+<tr>
+<td width="170"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-6840FF?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-6840FF?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-6840FF?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-6840FF?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-6840FF?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-6840FF?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Vue.js-6840FF?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
+<img src="https://img.shields.io/badge/Nuxt.js-6840FF?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
+</td>
+</tr>
+<tr>
+<td><b>Styling & Animation</b></td>
+<td>
+<img src="https://img.shields.io/badge/Tailwind_CSS-6840FF?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Sass-6840FF?style=flat-square&logo=sass&logoColor=white" alt="Sass"/>
+<img src="https://img.shields.io/badge/GSAP-6840FF?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
+<img src="https://img.shields.io/badge/WebGL-6840FF?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend & Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-6840FF?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/PHP-6840FF?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Python-6840FF?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Laravel-6840FF?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/MongoDB-6840FF?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-6840FF?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-6840FF?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Prisma-6840FF?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+</td>
+</tr>
+<tr>
+<td><b>Cloud & Deploy</b></td>
+<td>
+<img src="https://img.shields.io/badge/Azure-6840FF?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Vercel-6840FF?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Git-6840FF?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-6840FF?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</td>
+</tr>
+<tr>
+<td><b>Design & AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-6840FF?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/ChatGPT-6840FF?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-6840FF?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Copilot-6840FF?style=flat-square&logo=github&logoColor=white" alt="Copilot"/>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+### Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+  <a href="https://www.pascalecanal.fr"><img src="https://www.pascalecanal.fr/img/metaImg.png" alt="Pascale Canal" width="100%"/></a>
+  <h4>Pascale Canal — Art Gallery</h4>
+  <sub>Elegant art gallery showcasing contemporary artworks.</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Vue-6840FF?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Nuxt-6840FF?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/GSAP-6840FF?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
+  <br><br>
+  <a href="https://www.pascalecanal.fr"><img src="https://img.shields.io/badge/Live_Demo-→-C6FF33?style=flat-square&labelColor=0D1117&color=0D1117" alt="Live Demo"/></a>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://www.remycanal.me"><img src="https://www.remycanal.me/img/metaImg.png" alt="Portfolio" width="100%"/></a>
+  <h4>Personal Portfolio</h4>
+  <sub>Modern portfolio highlighting my development journey.</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Vue-6840FF?style=flat-square&logo=vue.js&logoColor=white" alt="Vue"/>
+  <img src="https://img.shields.io/badge/Nuxt-6840FF?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/GSAP-6840FF?style=flat-square&logo=greensock&logoColor=white" alt="GSAP"/>
+  <br><br>
+  <a href="https://www.remycanal.me"><img src="https://img.shields.io/badge/Live_Demo-→-C6FF33?style=flat-square&labelColor=0D1117&color=0D1117" alt="Live Demo"/></a>
+</td>
+<td width="33%" valign="top" align="center">
+  <a href="https://vikl.ai"><img src="https://vikl.ai/img/vikl/meta_img_vikl.jpeg" alt="VikL" width="100%"/></a>
+  <h4>VikL — AI Companion</h4>
+  <sub>AI-powered manager companion for workflow optimization.</sub>
+  <br><br>
+  <img src="https://img.shields.io/badge/Nuxt-6840FF?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt"/>
+  <img src="https://img.shields.io/badge/WebGL-6840FF?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+  <img src="https://img.shields.io/badge/Azure-6840FF?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <br><br>
+  <a href="https://vikl.ai"><img src="https://img.shields.io/badge/Live_Demo-→-C6FF33?style=flat-square&labelColor=0D1117&color=0D1117" alt="Live Demo"/></a>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+### GitHub Statistics
+
+#### Overview
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=remycnl&custom_title=Overview&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C6FF33&text_color=ffffff&icon_color=6840FF&ring_color=6840FF&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=remycnl&custom_title=Overview&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6840FF&text_color=333333&icon_color=6840FF&ring_color=6840FF&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=remycnl&custom_title=Overview&show_icons=true&hide_border=true&title_color=6840FF&icon_color=6840FF&ring_color=6840FF&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,prs_merged" alt="GitHub overview"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=remycnl&custom_title=Top%20Languages&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6FF33&text_color=ffffff&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=remycnl&custom_title=Top%20Languages&layout=compact&hide_border=true&bg_color=ffffff&title_color=6840FF&text_color=333333&langs_count=8">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remycnl&custom_title=Top%20Languages&layout=compact&hide_border=true&title_color=6840FF&langs_count=8" alt="Top languages"/>
+</picture>
+</div>
+
+<br>
+
+#### Consistency
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=remycnl&hide_border=true&background=0D1117&stroke=6840FF&ring=C6FF33&fire=C6FF33&currStreakLabel=ffffff&currStreakNum=C6FF33&sideNums=ffffff&sideLabels=ffffff&dates=9E9E9E">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=remycnl&hide_border=true&background=ffffff&stroke=6840FF&ring=6840FF&fire=6840FF&currStreakLabel=333333&currStreakNum=6840FF&sideNums=333333&sideLabels=333333&dates=666666">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=remycnl&hide_border=true&stroke=6840FF&ring=6840FF&fire=6840FF" alt="GitHub streak"/>
+</picture>
+</div>
+
+<br><br>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+### Let's Connect
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+[![Website](https://img.shields.io/badge/Website-6840FF?style=for-the-badge&logo=safari&logoColor=white)](https://www.remycanal.me)
+[![Awwwards](https://img.shields.io/badge/Awwwards-6840FF?style=for-the-badge&logo=awwwards&logoColor=white)](https://www.awwwards.com/remy.cnl/)
+[![Behance](https://img.shields.io/badge/Behance-6840FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/remycanal)
+[![Dribbble](https://img.shields.io/badge/Dribbble-6840FF?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/remycanal)
+[![Pinterest](https://img.shields.io/badge/Pinterest-6840FF?style=for-the-badge&logo=pinterest&logoColor=white)](https://fr.pinterest.com/remycanal/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6840FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/remy-canal)
+[![Email](https://img.shields.io/badge/Email-6840FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@remycanal.me)
 
-### Styling & Animation
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+<br>
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=flat-square&logo=strapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+*"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+<br>
 
-### AI-Powered Development
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=github&logoColor=white)
-
-<sub>*Enhanced with AI, crafted by human creativity*</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=remycnl&color=6840FF&style=flat-square&label=Profile+Views&labelColor=0D1117)
+![GitHub Followers](https://img.shields.io/github/followers/remycnl?style=flat-square&color=6840FF&labelColor=0D1117)
+![GitHub Stars](https://img.shields.io/github/stars/remycnl?style=flat-square&color=C6FF33&labelColor=0D1117&affiliations=OWNER)
 
 </div>
 
----
+<br>
 
-## GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remycnl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E6EDF3&langs_count=8" alt="Most Used Languages" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=remycnl&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=E6EDF3" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| **Pascale Canal - Art Gallery** | **Personal Portfolio** | **VikL - AI Manager Companion** |
-|:---:|:---:|:---:|
-| [![Pascale Canal](https://www.pascalecanal.fr/img/metaImg.png)](https://www.pascalecanal.fr) | [![Portfolio](https://www.remycanal.me/img/metaImg.png)](https://www.remycanal.me) | [![VikL](https://vikl.ai/img/vikl/meta_img_vikl.jpeg)](https://vikl.app) |
-| Elegant art gallery showcasing contemporary artworks | Modern portfolio highlighting my development journey | AI-powered manager companion designed to support decision-making and workflow organization |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| [**🔗 Live Demo**](https://www.pascalecanal.fr) | [**🔗 Live Demo**](https://www.remycanal.me) | [**🔗 Live Demo**](https://vikl.ai) |
-
-</div>
-
-<div align="center">
-  <sub><em>More exciting projects in development...</em></sub>
-</div>
-
----
-
-## Let's Connect 🤝
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-C7B4EC?style=for-the-badge&logoColor=white)](https://www.remycanal.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/remy-canal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@remycanal.me)
-
-</div>
-
----
-
-<div align="center">
-
-### *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=C7B4EC&center=true&vCenter=true&width=600&lines=Always+excited+to+work+on+new+projects;Meet+fellow+developers+and+creators;Building+the+future%2C+one+line+at+a+time)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=remycnl&color=C7B4EC&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/remycnl?style=flat-square&color=C7B4EC&labelColor=1e1e2e)
-![GitHub Stars](https://img.shields.io/github/stars/remycnl?style=flat-square&color=C7B4EC&labelColor=1e1e2e&affiliations=OWNER)
-
-*Everything is crafted with ❤️*
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7B4EC,100:C7B4EC&height=120&section=footer" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6840FF&height=6&section=footer" width="100%" alt=""/>
