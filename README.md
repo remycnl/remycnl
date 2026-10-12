@@ -31,7 +31,7 @@
 ```typescript
 const developer: Developer = {
   name: "Rémy Canal",
-  location: "Lyon, France 🇫🇷",
+  location: "Lyon, France",
   role: "Creative Developer",
   education: [
     "Epitech",
@@ -42,7 +42,8 @@ const developer: Developer = {
     "Modern Web Development",
     "UX/UI Design",
     "Performance Optimization",
-    "Creative Coding"
+    "Creative Coding",
+    "SEO & Copywriting"
   ],
   portfolio: "www.remycanal.me",
   availability: "🟢 Open to opportunities",
