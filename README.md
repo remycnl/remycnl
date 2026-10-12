@@ -11,7 +11,7 @@
   <br>
 
   <a href="https://www.remycanal.me">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=6840FF&center=true&vCenter=true&width=520&height=40&lines=Crafting+websites+with+a+heartbeat.;Human+by+design." alt="Crafting websites with a heartbeat. Human by design."/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=6840FF&center=true&vCenter=true&width=520&height=40&lines=Crafting+cool+websites.;Human+by+design." alt="Crafting cool websites. Human by design."/>
   </a>
 
   <br><br>
